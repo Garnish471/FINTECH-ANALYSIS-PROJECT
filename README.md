@@ -27,6 +27,10 @@ Transaction ID consisting of irrelevant codes were addressed
 Inconsistency in formatting of all column were addressed.
 Box and whisker was introduced no anomally found.
 
+![](https://github.com/Garnish471/FINTECH-ANALYSIS-PROJECT/blob/main/Screenshot_20250811-144044.jpg)
+
+
+
 ## 5 Analysis and Visualization
 Cashbacks & transaction health
 -Cashback is 1% of revenue ($253K)
