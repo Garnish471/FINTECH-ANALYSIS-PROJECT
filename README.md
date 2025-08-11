@@ -32,6 +32,9 @@ Cashbacks & transaction health
 -Cashback is 1% of revenue ($253K)
 - healthy promotional spend
 
+  ![](https://github.com/Garnish471/FINTECH-ANALYSIS-PROJECT/blob/main/Screenshot%20(81).png)
+  
+
 Urban Users Drive Revenue Growth
 -Urban users make up 70% of total users and drive $17.3M in revenue
 -Rural users, while only 10%, contribute $2.5M indicating potential growth
