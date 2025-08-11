@@ -19,6 +19,8 @@ Which payment method generates the highest revenue
 - Data transformation
 - Data type conversion
 - Data visualization (Charts, Dashboard)
+
+  ![](https://github.com/Garnish471/FINTECH-ANALYSIS-PROJECT/blob/main/Screenshot_20250811-144059.jpg)
   
 ## 4 Data Sourcing
 Data was downloaded from Kaggle.
